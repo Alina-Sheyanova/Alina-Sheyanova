@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Alina Sheyanova
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">QA - automation engineer</h3>
+<h3 align="center">QA Automation Engineerr</h3>
 
 ### My tech stack: 
 <div>
@@ -22,7 +22,7 @@
 <div id="badges">
 
   <a href="https://t.me/magicvolf">
-    <img src="https://td-odegda.ru/images/logo/telegram2.png" height="60" alt="Telegram"/>
+    <img src="https://td-odegda.ru/images/logo/telegram2.png" height="50" alt="Telegram"/>
   </a>
 
 </div>
