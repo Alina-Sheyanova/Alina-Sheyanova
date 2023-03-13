@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">QA Automation Engineerr</h3>
 
-### My tech stack: 
+### My stack: 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg"  width="40" height="40" />&nbsp;
@@ -20,9 +20,7 @@
 
 ### My contacts:
 <div id="badges">
-
   <a href="https://t.me/magicvolf">
     <img src="https://td-odegda.ru/images/logo/telegram2.png" height="50" alt="Telegram"/>
   </a>
-
 </div>
